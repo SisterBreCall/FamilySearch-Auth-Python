@@ -9,6 +9,8 @@ from addict import Dict
 
 # Place FamilySearch API key here
 clientID = ""
+
+# Set to Integration, Beta, or Production
 devEnvironment = "Production"
 
 # Gloval variables
